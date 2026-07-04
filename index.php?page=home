@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="google-site-verification" content="cSHNtdykNNoZkteRc-Glgmat3JeBgyXXmh5ZayD1iWs" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Abraham Regelson</title>
+<meta name="description" content="A website comemorating Abraham Regelson, his works, and articles on them.">
+<meta name="keywords" content="regelson, abraham, abraham regelson, dollsjourney, dolls journey, doll's, eretz-israel, sharona, tel-oren, sharona tel-oren, israel, cleveland, new york">
+<meta name="author" content="Gahl Saraf">
+<meta http-equiv="Content-Language" content="en-us">
+<link rel="stylesheet" type="text/css" href="master.css">
+<script type="text/javascript" src="scripting.js"></script>
+<style type="text/css" media="all">
+<!--
+	#div3 {
+		text-align: center; /* be nice to IE5 */
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		width: 100%;
+		display:none;
+		}
+
+	#largeimg {
+		text-align: center; /* be nice to IE5 */
+		background-color: #ffc;
+		border: solid 3px #000;
+		margin-left: auto;
+		margin-right: auto;
+		}
+	//-->
+</style>
+<script type="text/javascript" src="scripting.js"></script>
+</head>
+<body>
+<div id="div3"><p id="largeimg"></p></div>
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+
+    <tr>
+
+      <td align="center" rowspan="2"><img src="images/mainimage_1.jpg" alt="Books"></td>
+
+      <td rowspan="2"><img src="images/regelson_smaller_darker.jpg" alt="Abraham Regelson"></td>
+
+ <td class="heading" valign="bottom">ABRAHAM REGELSON</td></tr><tr>
+ <td class="headingh" dir="rtl" valign="top">אברהם רגלסון</td></tr><tr><td colspan="3" align="center" class="topnav"><a href="?page=homeheb">דף הבית</a>
+      | <a href="?page=BioHeb">ביוגרפיה</a>
+      |	<a href="?page=worksh">יצירות</a>
+      |	<a href="?page=criticalheb"> ביקורת</a>
+      | <a href="?page=radio">"בית הוריי"</a>
+      |	<a href="?page=contactus">צור קשר</a>
+      | <a href="?page=dollsjourney" dir="rtl">&quot;מסע הבובות&quot;</a></td>
+
+	</tr>
+
+  </table>
+
+<table border="0" cellpadding="0" cellspacing="0" align="center" width="100%">
+
+<tr>
+
+<td class="sidebar" valign="top" width="180">
+<div id="navtitle">Regelson</div>
+<div class="navnormal">
+<div class="navdiv"><a href="./">Home Page</a></div>
+<div class="navdiv"><a href="?page=biography">Full Biography</a></div>
+<div class="navdiv"><a href="?page=works">Works</a></div>
+<div class="navdiv"><a href="?page=critical">Critical Articles</a></div>
+<div class="navdiv"><a href="?page=contactus">Contact Us</a></div><br>
+</div>
+<div class="navlarge"><a href="?page=dollsjourney">"Dolls' Journey"</a></div>
+
+
+</td>
+<td valign="top" id="contenttd" style="border-collapse: collapse">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >  <tr>    <td class="hometitle" valign="middle" height="1" colspan="2">    ABRAHAM REGELSON (1896-1981) - HEBREW POET, AUTHOR,     TRANSLATOR    </td>  </tr>  <tr>    <td class="textarea" valign="top" height="107">	The renowned Hebrew poet Abraham Regelson was born in Russia in 1896,     and immigrated to the US with his parents in 1905. <br>    He moved to early Jewish Palestine in 1933, but after three years     returned to New York. Master of Hebrew, English and Yiddish, his     poetry and prose in all three languages was published in both     countries. <br>    In 1949 he settled permanently in Israel.</td>    <td class="textarea" valign="top" height="107">        Author of several volumes of poetry, essays and children's books, he has also translated     into Hebrew works by Milton, Blake, Melville and others. <br>    
+Winner of the prestigious Brenner (1964) and Bialik (1972) Literature     Prizes in Israel, he was also awarded the Neuman Prize by the Hebrew     Department of NYU in 1976 for his contribution to Hebrew literature.    <br>    He died in 1981.<br><b><a href="?page=biography">For full biography press here...</a>    </b><br></td>  </tr></table>
+
+	</td>
+
+        </tr>
+
+      </table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5481538-1");
+pageTracker._trackPageview();
+</script>
+</body></html>

@@ -1,0 +1,233 @@
+BODY {
+background-color: #D9CEB7;
+color: #000000;
+font-family: times new roman, Arial, sans-serif;
+font-size: 100%;
+margin:5px;
+}
+A:LINK, A:VISITED {
+font-family:David, sans-serif, times new roman;
+color: #990000;
+text-decoration: underline;
+font-weight: bold;
+font-size: 13pt;
+}
+A:HOVER {
+color : #944C46;
+text-decoration: underline overline;
+font-weight: bold;
+font-size:13pt;
+}
+/* this grouping sets the heading colors and sizes */
+H1 {
+font-family: times new roman, Arial, sans-serif;
+font-size : 130%;
+font-weight : bold;
+color : #000000;
+letter-spacing: 2pt;
+}
+H2 {
+	font-family: times new roman, Arial, sans-serif;
+font-size: 130%;
+font-weight: bold;
+color: #000000;
+letter-spacing: 2pt;
+}
+H3, H4, H5, H6 {
+	font-family: times new roman, Arial, sans-serif;
+font-size: 110%;
+font-weight: bold;
+color: #000000;
+letter-spacing: 2pt;
+}
+/* this class sets the properties for the horizontal rule bar */
+hr {
+color: #000000;
+height: 1px;
+width: 80%;
+}
+
+.textarea {
+font-family: Times New Roman, Arial, sans-serif;
+background: #FFFFFF;
+font-size: 13pt;
+border: 1px solid #A5884B;
+line-height: 16pt;
+padding:5px;
+color: black;
+}
+
+.textareah {
+font-family: Times new roman,Arial,sans-serif;
+background: #FFFFFF;
+font-size: 13pt;
+border: 1px solid #A5884B;
+line-height: 16pt;
+padding:5px;
+color: black;
+}
+
+
+.poem {
+font-weight: bold;font-family: David;
+font-size: 13pt;
+margin-right:30px;
+line-height:140%;
+direction:rtl;
+}
+
+.poem_eng {
+font-weight: bold;
+font-size: 13pt;
+margin-left:30px;
+line-height:130%;
+direction:ltr;
+font-style:italic;
+}
+
+
+.poem1 {
+font-family: FrankRuehl;
+font-size: 13pt;
+margin-right:25px;
+line-height:140%;
+}
+
+.inter {font-family: Times New Roman; margin-right:25px; }
+.sh {
+font-family: FrankRuehl;
+font-size: 13pt;
+margin-right:0px;
+}
+.ipoem { /*inline poem*/
+font-family: David,sans-serif;
+}
+
+
+.sidebar {
+font-family: Times New Roman, Arial, sans-serif;
+background: #FFFFFF;
+border: 1px solid #A5884B;
+}
+.topnav {
+font-family: Times New Roman, Arial, sans-serif;
+background: #FFFFFF;
+border: 1px solid #A5884B;
+font-size: pt;
+text-align: center;
+text-decoration: none;
+}
+.topnav A, .topnav A:HOVER{
+	font-size:15pt;
+}
+.hometitle {
+border: 1px solid #A5884B;
+font:bold 18pt Times New Roman, Arial;
+letter-spacing: 1px;
+background-color: #FFFFFF;
+text-align: center;
+padding:5px 0px 5px 0px;
+}
+.hometitleh {
+border: 1px solid #A5884B;
+background-color: #ffffff;
+font-family: FrankRuehl, David, sans-serif, Times New Roman;
+font-size: 18pt;
+font-weight: bold;
+text-align: center;
+padding:5px 0px 5px 0px;
+}
+.heading {
+font-family: Arial Black, arial;
+font-size: 19pt;
+letter-spacing: 1.5px;
+font-weight: bold;
+color: #000000;
+text-align: center;
+}
+.headingh {
+font-family: Guttman Haim,sans-serif, Arial;
+font-size: 24pt;
+letter-spacing: 2px;
+font-weight: 600;
+color: #000000;
+text-align: center;
+}
+.sidebar #navtitle {
+font-weight:bold;
+font-size:16pt;
+padding-bottom:3px;
+}
+.navsmall A:link, .navsmall A:visited, .navsmall A:active{
+font-weight:bold;
+font-size:11pt;
+}
+.navlarge A:link, .navlarge A:visited, .navlarge A:active{
+font-weight:bold;
+font-size:15pt;
+}
+.navlarge {
+padding:0px 0px 5px 10px;
+text-indent: -10px;
+margin-left:3px;
+}
+.navlargeh  {
+padding:0px 10px 5px 10px;
+text-indent: -10px;
+margin-right:3px;
+}
+.navlargeh A:link, .navlargeh A:visited, .navlargeh A:active{
+font-weight:bold;
+font-size:16pt;
+}
+.navnormal A:link, .navnormal A:visited, .navnormal A:active{
+font-weight:bold;
+font-size:14pt;
+}
+.sindent, .navdiv {
+padding-left:10px;
+text-indent: -10px;
+}
+.navdiv {
+margin-left:3px;
+margin-bottom:3px;
+}
+.navdivh {
+padding-right:10px;
+text-indent: -10px;
+margin-right:3px;
+margin-bottom:5px;
+}
+#bottomspecialcase {
+	border-left:1px solid;
+	border-right:1px solid;
+}
+.smallprint {
+	font-size: 11pt;
+}
+
+.toc tr td{
+	border-bottom:1px dotted;
+	padding-bottom:5px;
+}
+.toch tr td:first-child{
+	border-right:0px dotted;
+}
+.toc tr:last-child td{
+	border-bottom:0px dotted;
+}
+.toch tr td{
+	padding-right:5px;
+	border-right:1px dotted;
+}
+.toce tr td{
+	padding-left:5px;
+	border-left: 1px dotted;
+}
+.toce tr td:first-child{
+	border-left:0px dotted;
+}
+
+sup {
+	font-size: 10px;
+}
